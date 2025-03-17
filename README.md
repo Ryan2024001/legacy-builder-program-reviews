@@ -1,4 +1,4 @@
-# legacy-builder-program-reviews
+# Legacy Builder Program Reviews
 "Learn how the Legacy Builder Program can help you build lasting wealth and create a financial legacy for future generations. Explore its features and benefits in this quick overview."
 <!DOCTYPE html>
 <html lang="en">
